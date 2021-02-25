@@ -23,7 +23,7 @@
 　Offered free English and Chinese classes to students.   
 ▪ 17.09 ~ 18.02 : **ADS(English Debate Club), Sogang University**  
 　Practiced British Parliament style of debate.  
-▪ 20.07 ~ Now : **J2KB Coding Club**
+▪ 20.07 ~ Now : **J2KB Coding Club**  
 　Marketing Manager.
  
 ## 🎓Education🎓
