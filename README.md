@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Seoha Choi&fontSize=90)
+
 ## 🛠Tech Stack🛠
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -16,16 +18,17 @@
 ## 🌍Extra-Curricula Activities🌍
 
 ▪ 15.03 ~ 17.08 : **HUG(Hands Up for Gathering) Cultural Exchange Program, Sogang University**   
-  Assisted international students to adjust in Sogang life.  
+　Assisted international students to adjust in Sogang life.  
 ▪ 16.10 ~ 17.12 : **LH Teaching Volunteer,LH**  
-  Helped students to learn English and Chinese.   
+　Helped students to learn English and Chinese.   
 ▪ 17.09 ~ 18.02 : **ADS(English Debate Club), Sogang University**  
-   Practiced British Parliament style of debate.  
+　Practiced British Parliament style of debate.  
 ▪ 20.07 ~ Now : **J2KB Coding Club**
-
+　Marketing Manager
+ 
 ## 🎓Education🎓
 
 ▪ 15.03 ~ 21.08 : **Undergraduate, Sogang University**  
-　　Chinese Culture   
-　　Engish Literature   
+　　　　　　　　　　Chinese Culture   
+　　　　　　　　　　Engish Literature   
 ▪ 16.02 ~ 16.08 : **Exchange Student, Tsinghua University**
