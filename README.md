@@ -11,7 +11,9 @@
 
 
 ## 💻Work Experence💻
-▪ 20.01 ~ Now : **Spicemart Japan Global Market Research**  
+▪ 22.06 ~ 22.08 : **Pearl Abyss Game Service Team**  
+▪ 21.07 ~ 22.01 : **TikTok Contents Operation**  
+▪ 20.01 ~ 21.07 : **Spicemart Japan Global Market Research**  
 ▪ 18.04 ~ 18.11 : **Too Cool for School Sales Department**  
 ▪ 17.09 ~ 17.12 : **Sogang University Class Assistant**  
 
@@ -25,6 +27,7 @@
 　Practiced British Parliament style of debate.  
 ▪ 20.07 ~ Now : **J2KB Coding Club**  
 　Marketing Manager.
+  Contents Team Manager. 
  
 ## 🎓Education🎓
 
